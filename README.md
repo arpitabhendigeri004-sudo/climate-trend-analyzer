@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="dash5" src="https://github.com/user-attachments/assets/40b09e5e-9028-4cc2-86e4-4a2c5679ca86" /># 🌍 Climate Trend Analyzer
+🌍 Climate Trend Analyzer
 
 ## 📌 Overview
 
