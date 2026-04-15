@@ -1,0 +1,48 @@
+# 🔒 Virtual Environment (VERY IMPORTANT)
+env/
+venv/
+ENV/
+
+# 🐍 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Build files
+build/
+dist/
+*.egg-info/
+
+# 📊 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧪 Testing
+.coverage
+.tox/
+.pytest_cache/
+
+# 🧾 Logs
+*.log
+
+# 💻 VS Code
+.vscode/
+
+# 🖥️ System files
+.DS_Store
+Thumbs.db
+
+# 🔐 Secrets (IMPORTANT)
+.env
+
+# 📁 Large data files (optional)
+data/raw/*.csv
+
+# 📤 Outputs (optional but recommended)
+outputs/
+
+# 🚫 Streamlit cache
+.streamlit/
+
+# 📸 Ignore temporary images (optional)
+*.tmp
